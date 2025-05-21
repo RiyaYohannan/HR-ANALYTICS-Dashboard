@@ -37,5 +37,5 @@ The data for this project was self-extracted and curated manually to simulate re
 
 Screenshot/Demo
 link:https://github.com/RiyaYohannan/HR-ANALYTICS-Dashboard/blob/main/Screenshot%20HR%20Analytics%20Dashboard.png
-![image](https://github.com/user-attachments/assets/6f6ecab9-9788-4916-b6e4-36ef8f5a37c0)
+
 
