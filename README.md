@@ -4,6 +4,7 @@
 This project presents an interactive HR Analytics Dashboard built using Power BI, offering deep insights into employee attrition and various HR metrics. It is designed to support HR teams in identifying patterns and making data-driven decisions regarding workforce retention and satisfaction.
 
 
+
 🔗 Purpose:
 
 The primary goal of this dashboard is to analyze employee attrition trends within an organization by visualizing various factors such as age, salary, job role, education, gender, and years at the company. 
@@ -20,6 +21,7 @@ It helps stakeholders:
 
 
 
+
 🔗 Tech Stack:
 
 •	Power BI: For building interactive visual dashboards
@@ -27,6 +29,7 @@ It helps stakeholders:
 •	DAX & Power Query: Used for data modeling, cleaning, and transformation
 
 •	Custom Visuals: Applied for dynamic and clean representation of key metrics
+
 
 
 
@@ -51,6 +54,8 @@ It includes employee attributes like:
 •	Job Satisfaction
 
 •	Attrition Status
+
+
 
 
 🔗 Key Features & Highlights:
